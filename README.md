@@ -124,7 +124,7 @@ AWS service-specific comparison modules
 
 User-defined custom comparisons
 
-Exportable decision reports
+Exportable decision reports     
 
 Backend integration for dynamic data
 
