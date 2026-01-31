@@ -89,7 +89,7 @@ Comparing API design approaches (e.g., REST vs GraphQL)
 Evaluating architectural patterns
 
 Learning system design trade-offs
-
+    
 Supporting technical discussions and documentation
 
 Extensible for cloud service comparisons (AWS, etc.)
