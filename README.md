@@ -17,7 +17,7 @@ This project focuses on **decision clarity**, **usability**, and **extensibility
 
 ---
 
-## 🎯 Objectives
+## 🎯 Objectives 
 
 - Promote structured decision-making instead of one-size-fits-all solutions
 - Help users understand *why* one option may be better than another in a given context
