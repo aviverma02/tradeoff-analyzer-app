@@ -11,7 +11,7 @@ In real-world software engineering, architectural and technology decisions are r
 The **Trade-off Analyzer** is designed to support better decision-making by:
 - Structuring comparisons between multiple technical options
 - Highlighting strengths and weaknesses in a clear format
-- Encouraging informed and context-aware choices
+- Encouraging informed and context-aware choices 
 
 This project focuses on **decision clarity**, **usability**, and **extensibility**, making it suitable for developers, students, and architects.
 
