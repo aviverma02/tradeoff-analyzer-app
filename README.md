@@ -33,7 +33,7 @@ This project focuses on **decision clarity**, **usability**, and **extensibility
 - **Tailwind CSS** – Utility-first responsive styling
 - **JavaScript (ES6+)** – Application logic and state management
 - **Lucide React** – Lightweight and consistent icon system
-
+ 
 ---
 
 ## ✨ Key Features
