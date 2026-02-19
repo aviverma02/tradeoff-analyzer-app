@@ -7,7 +7,7 @@ A modern web-based decision-support application that helps users compare technic
 ## 📌 Overview  
 
 In real-world software engineering, architectural and technology decisions are rarely binary. Each option comes with its own advantages and limitations depending on context, constraints, and priorities.
-
+ 
 The **Trade-off Analyzer** is designed to support better decision-making by:
 - Structuring comparisons between multiple technical options
 - Highlighting strengths and weaknesses in a clear format
