@@ -15,7 +15,7 @@ The **Trade-off Analyzer** is designed to support better decision-making by:
 
 This project focuses on **decision clarity**, **usability**, and **extensibility**, making it suitable for developers, students, and architects.
 
----
+--- 
 
 ## 🎯 Objectives 
 
