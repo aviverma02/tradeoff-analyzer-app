@@ -1,6 +1,6 @@
 # Trade-off Analyzer
 
-A modern web-based decision-support application that helps users compare technical options by clearly presenting their trade-offs, rather than providing a single prescriptive answer.
+A modern web-based decision-support application that helps users compare technical options by clearly presenting their trade-offs, rather than providing a single prescriptive answer. 
  
 ---
   
