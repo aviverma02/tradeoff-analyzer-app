@@ -36,7 +36,7 @@ This project focuses on **decision clarity**, **usability**, and **extensibility
  
 ---
 
-## ✨ Key Features
+## ✨ Key Features 
 
 - Side-by-side comparison of technical options
 - Structured pros and cons with impact indicators
@@ -142,6 +142,6 @@ This project is licensed under the MIT License.
 Avinash Verma
 Frontend Developer | AWS Learner | Problem Solver
 
-⭐ Acknowledgements
+⭐ Acknowledgements 
 
 Inspired by real-world system design challenges and the need for transparent, context-aware decision-making in software engineering.
